@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<maxiOS>14.0</maxiOS>
-			<otherVersions>desteklenmiyor</otherVersions>
+			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
