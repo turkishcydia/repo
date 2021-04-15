@@ -1,10 +1,10 @@
 <package>
 	<id>com.tigisoftware.filza</id>
-	<name>Filza</name>
-	<version>3.8.1-29</version>
+	<name>Filza Package</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>14.0</maxiOS>
+			<maxiOS>13.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Filza</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
