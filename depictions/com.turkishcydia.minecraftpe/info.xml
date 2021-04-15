@@ -1,0 +1,14 @@
+<package>
+	<id>com.turkishcydia.fullpackage</id>
+	<name>Minecraft PE</name>
+	<version>0.14.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Minecraft</shortDescription>
+</package>
