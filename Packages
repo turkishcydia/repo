@@ -1,4 +1,4 @@
-Package: com.supermamon.newpackage
+Package: com.turkishcydia.filza
 Version: 2.0.0-1
 Section: Tweaks
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
@@ -10,7 +10,7 @@ MD5sum: 123f4ff93ce8fb827e53aa6b79eaf60c
 Description: Filza File Manager for iOS 
 Name: Filza
 Author: Turkish Cydia <turkishcydia@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.turkishcydia.filza
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
