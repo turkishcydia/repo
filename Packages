@@ -4,13 +4,13 @@ Section: Tweaks
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.turkishcydia.filza_2.0.0-1_iphoneos-arm.deb
 Size: 12936928
 MD5sum: 123f4ff93ce8fb827e53aa6b79eaf60c
 Description: Filza File Manager for iOS 
 Name: Filza
 Author: Turkish Cydia <turkishcydia@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.turkishcydia.filza
+Depiction: https://turkishcydia.github.io/repo.github.io/depictions/?p=com.turkishcydia.filza
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
