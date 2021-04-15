@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
+	<name>Filza</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Filza File Manager for iOS</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>.</description>
+		<description>.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -31,14 +31,12 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Filza File Manager</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>Turkish Cydia Website</name>
+			<url>http://muzaffercinar.tk</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>

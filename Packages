@@ -1,15 +1,15 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 12936928
 MD5sum: 123f4ff93ce8fb827e53aa6b79eaf60c
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+Description: Filza File Manager for iOS 
+Name: Filza
+Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
