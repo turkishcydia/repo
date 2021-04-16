@@ -13,7 +13,7 @@ Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.felicitylite
 
 Package: com.turkishcydia.minecraftpe
-Icon: ./debs/minecraftpe.png
+Icon: file://Applications\minecraftpe.app/Default@2x.png
 Version: 0.14.0
 Section: Uygulamalar
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
