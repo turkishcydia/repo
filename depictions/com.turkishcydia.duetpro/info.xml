@@ -1,0 +1,14 @@
+<package>
+	<id>com.turkishcydia.fullpackage</id>
+	<name>Duet Pro</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Bilgisayarınıza ikinci ekran istiyorsanız. Bu uygulama tam size göre :)</shortDescription>
+</package>

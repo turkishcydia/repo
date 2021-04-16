@@ -1,8 +1,8 @@
 Package: com.turkishcydia.felicitylite
 Version: 5.3
-Section: Tweaks
+Section: Themes
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), snowboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.felicitylite_5.3_iphoneos-arm.deb
 Size: 11917074
@@ -14,17 +14,29 @@ Depiction: https://turkishcydia.github.io/repo.github.io/depictions/?p=com.turki
 
 Package: com.turkishcydia.minecraftpe
 Version: 0.14.0
-Section: Utilities
+Section: Applications
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.minecraftpe_0.14.0_iphoneos-arm.deb
 Size: 27671042
 MD5sum: 93d599c5737c4d9ed0669266641698a0
-Description: Play Minecraft
+Description: Minecraft Oyununu Oynayın. Şimdi!
 Name: Minecraft PE
 Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo.github.io/depictions/?p=com.turkishcydia.minecraftpe
 
-
+Package: com.turkishcydia.duetpro
+Version: 1.0
+Section: Applications
+Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Depends: firmware (>7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.turkishcydia.duetpro_1.0_iphoneos-arm.deb
+Size: 33515562
+MD5sum: 12669b94e0b10d25cc7e76d22b360dbb
+Description: Bilgisayarınız için ikinci ekran olarak tabletinizi veya telefonunuzu kullanın!
+Name: Duet Pro
+Author: Turkish Cydia <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo.github.io/depictions/?p=com.turkishcydia.duetpro
 
