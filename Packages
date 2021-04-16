@@ -2,7 +2,7 @@ Package: com.turkishcydia.felicitylite
 Version: 5.3
 Section: Themes
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>7.0), SnowBoard
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.felicitylite_5.3_iphoneos-arm.deb
 Size: 11917074
