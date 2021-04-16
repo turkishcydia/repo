@@ -14,7 +14,7 @@ Depiction: https://turkishcydia.github.io/repo.github.io/depictions/?p=com.turki
 
 Package: com.turkishcydia.minecraftpe
 Version: 0.14.0
-Section: Applications
+Section: Uygulamalar
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
@@ -28,7 +28,7 @@ Depiction: https://turkishcydia.github.io/repo.github.io/depictions/?p=com.turki
 
 Package: com.turkishcydia.duetpro
 Version: 1.0
-Section: Applications
+Section: Uygulamalar
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
