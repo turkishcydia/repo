@@ -56,7 +56,7 @@ Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ik
 
 Package: com.turkishcydia.quickpowermode
 Version: 1.0.1
-Section: Tweaks
+Section: Utilities
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>9.0)
 Architecture: iphoneos-arm
