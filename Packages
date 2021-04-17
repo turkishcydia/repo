@@ -2,7 +2,7 @@ Package: com.turkishcydia.felicitylite
 Version: 5.3
 Section: Themes
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>7.0)
+Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.felicitylite_5.3_iphoneos-arm.deb
 Size: 11917074
@@ -16,7 +16,7 @@ Package: com.turkishcydia.minecraftpe
 Version: 0.14.0
 Section: Uygulamalar
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>7.0)
+Depends: firmware (>9.0)
 Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.minecraftpe_0.14.0_iphoneos-arm.deb
@@ -31,7 +31,7 @@ Package: com.turkishcydia.duetpro
 Version: 1.0
 Section: Uygulamalar
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>7.0)
+Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.duetpro_1.0_iphoneos-arm.deb
 Size: 33515562
@@ -59,7 +59,7 @@ Package: com.turkishcydia.quickpowermode
 Version: 1.0.1
 Section: Utilities
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
-Depends: firmware (>9.0)
+Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.quickpowermode_1.0.1_iphoneos-arm.deb
 Size: 22150
@@ -68,3 +68,17 @@ Description: Batarya Simgesine Dokunarak Aktif Edebilirsiniz.
 Name: QuickPowerMode (Hızlı Güç Modu)
 Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.quickpowermode
+
+Package: com.turkishcydia.a-font
+Version: 1.5.1
+Section: Utilities
+Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.turkishcydia.a-font_1.5.1_iphoneos-arm.deb
+Size: 834350
+MD5sum: 9831d1755fa7d086e3691598faddf506
+Description: iOS Cihazınızın Fontunu Değiştirin.
+Name: A-Font
+Author: Turkish Cydia <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.a-font
