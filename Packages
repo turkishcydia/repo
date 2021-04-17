@@ -49,7 +49,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.ikon_1.0_iphoneos-arm.deb
 Size: 15938
 MD5sum: c21c12fe662f78714be9f24b9865a842
-Description: Turkish Cydia ikon Yükleyici (İndirmeniz Önerilir!)
+Description: Turkish Cydia ikon yükleyici (İndirmeniz Önerilir!)
 Name: Turkish Cydia Icon Loader
 Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ikon
