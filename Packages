@@ -60,6 +60,7 @@ Section: Utilities
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>9.0)
 Architecture: iphoneos-arm
+Icon: https://repo.trappledestek.com/ikonlar/Sistem.png
 Filename: ./debs/com.turkishcydia.quickpowermode_1.0.1_iphoneos-arm.deb
 Size: 22150
 MD5sum: 09e9fc212e970f0ad444b56fb8f04720
