@@ -63,7 +63,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.quickpowermode_1.0.1_iphoneos-arm.deb
 Size: 22150
 MD5sum: 09e9fc212e970f0ad444b56fb8f04720
-Description: Turkish Cydia ikon yükleyici (İndirmeniz Önerilir!)
+Description: Batarya Simgesine Dokunarak Aktif Edebilirsiniz.
 Name: QuickPowerMode (Hızlı Güç Modu)
 Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.quickpowermode
