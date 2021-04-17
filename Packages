@@ -17,6 +17,7 @@ Version: 0.14.0
 Section: Uygulamalar
 Maintainer: Turkish Cydia <turkishcydia@gmail.com>
 Depends: firmware (>7.0)
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.minecraftpe_0.14.0_iphoneos-arm.deb
 Size: 27671042
