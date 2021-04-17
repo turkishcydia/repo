@@ -40,3 +40,16 @@ Name: Duet Pro
 Author: Turkish Cydia <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.duetpro
 
+Package: com.turkishcydia.ikon
+Version: 1.0
+Section: Turkish Cydia Icon Loader
+Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Depends: firmware (>7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.turkishcydia.ikon_1.0_iphoneos-arm.deb
+Size: 15938
+MD5sum: ee1e5186da5274222ee0a59791c0ebf0
+Description: Turkish Cydia ikon Yükleyici (İndirmeniz Önerilir!)
+Name: Turkish Cydia Icon Loader
+Author: Turkish Cydia <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ikon
