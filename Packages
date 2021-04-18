@@ -1,7 +1,7 @@
 Package: com.turkishcydia.felicitylite
 Version: 5.3
 Section: Themes
-Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.felicitylite_5.3_iphoneos-arm.deb
@@ -9,28 +9,27 @@ Size: 11917074
 MD5sum: ee1e5186da5274222ee0a59791c0ebf0
 Description: Felicity Lite Teması
 Name: Felicity Lite
-Author: Turkish Cydia <turkishcydia@gmail.com>
+Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.felicitylite
 
 Package: com.turkishcydia.minecraftpe
 Version: 0.14.0
 Section: Uygulamalar
-Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>9.0)
-Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.minecraftpe_0.14.0_iphoneos-arm.deb
 Size: 27671042
 MD5sum: 93d599c5737c4d9ed0669266641698a0
 Description: Minecraft Oyununu Oynayın. Şimdi!
 Name: Minecraft PE
-Author: Turkish Cydia <turkishcydia@gmail.com>
+Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.minecraftpe
 
 Package: com.turkishcydia.duetpro
 Version: 1.0
 Section: Uygulamalar
-Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.duetpro_1.0_iphoneos-arm.deb
@@ -38,13 +37,13 @@ Size: 33515562
 MD5sum: 12669b94e0b10d25cc7e76d22b360dbb
 Description: Bilgisayarınız için ikinci ekran olarak tabletinizi veya telefonunuzu kullanın!
 Name: Duet Pro
-Author: Turkish Cydia <turkishcydia@gmail.com>
+Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.duetpro
 
 Package: com.turkishcydia.ikon
 Version: 1.0
 Section: Turkish Cydia Icon Loader
-Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.ikon_1.0_iphoneos-arm.deb
@@ -52,13 +51,13 @@ Size: 15938
 MD5sum: c21c12fe662f78714be9f24b9865a842
 Description: Turkish Cydia ikon yükleyici (İndirmeniz Önerilir!)
 Name: Turkish Cydia Icon Loader
-Author: Turkish Cydia <turkishcydia@gmail.com>
+Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ikon
 
 Package: com.turkishcydia.quickpowermode
 Version: 1.0.1
 Section: Utilities
-Maintainer: Turkish Cydia <turkishcydia@gmail.com>
+Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.turkishcydia.quickpowermode_1.0.1_iphoneos-arm.deb
@@ -66,5 +65,5 @@ Size: 22150
 MD5sum: 09e9fc212e970f0ad444b56fb8f04720
 Description: Batarya Simgesine Dokunarak Aktif Edebilirsiniz.
 Name: QuickPowerMode (Hızlı Güç Modu)
-Author: Turkish Cydia <turkishcydia@gmail.com>
+Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.quickpowermode

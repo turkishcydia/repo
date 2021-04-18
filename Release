@@ -1,8 +1,8 @@
-Origin: Turkish Cydia
-Label: Turkish Cydia
+Origin: JailbreakTR (Turkish Cydia)
+Label: JailbreakTR (Turkish Cydia)
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Turkish Cydia Repo
+Description: JailbreakTR Repo
