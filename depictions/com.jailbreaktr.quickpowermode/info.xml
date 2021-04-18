@@ -1,0 +1,14 @@
+<package>
+	<id>com.turkishcydia.fullpackage</id>
+	<name>QuickPowerMode</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Düşük Güç Modunu Açmak İçin Batarya Simgesine Tıkla. Aynı Zamanda iPad'lerde Düşük Güç Modunu Aktifleştirir.</shortDescription>
+</package>
