@@ -30,7 +30,7 @@ Package: com.jailbreaktr.newterm2
 Version: 2.5
 Section: Terminal Support
 Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>11.0)
+Depends: firmware (>11.0), com.jailbreaktr.felicitylite
 Architecture: iphoneos-arm
 Filename: ./debs/com.jailbreaktr.newterm2_2.5_iphoneos-arm.deb
 Size: 2997400
