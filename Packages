@@ -22,7 +22,7 @@ Filename: ./debs/com.jailbreaktr.quickpowermode_1.0.1_iphoneos-arm.deb
 Size: 22194
 MD5sum: a07e48252086eb08742f523eb70d4ba4
 Description: Düşük Güç Modunu Açmak İçin Batarya Simgesine Tıkla. Aynı Zamanda iPad'lerde Düşük Güç Modunu Aktifleştirir.
-Name: QuickPowerMode (Hızlı Güç Modu)
+Name: QuickPowerMode
 Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.quickpowermode
 
