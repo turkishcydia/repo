@@ -1,69 +1,41 @@
-Package: com.turkishcydia.felicitylite
+Package: com.jailbreaktr.felicitylite
 Version: 5.3
 Section: Themes
 Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.turkishcydia.felicitylite_5.3_iphoneos-arm.deb
-Size: 11917074
-MD5sum: ee1e5186da5274222ee0a59791c0ebf0
-Description: Felicity Lite Teması
+Filename: ./debs/com.jailbreaktr.felicitylite_5.3_iphoneos-arm.deb
+Size: 11917086
+MD5sum: 24805afcd12a6f1a6465e470a2cd6f0d
+Description: SnowBoard Teması
 Name: Felicity Lite
 Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.felicitylite
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.felicitylite
 
-Package: com.turkishcydia.minecraftpe
-Version: 0.14.0
-Section: Uygulamalar
-Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>9.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.turkishcydia.minecraftpe_0.14.0_iphoneos-arm.deb
-Size: 27671042
-MD5sum: 93d599c5737c4d9ed0669266641698a0
-Description: Minecraft Oyununu Oynayın. Şimdi!
-Name: Minecraft PE
-Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.minecraftpe
-
-Package: com.turkishcydia.duetpro
-Version: 1.0
-Section: Uygulamalar
-Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>11.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.turkishcydia.duetpro_1.0_iphoneos-arm.deb
-Size: 33515562
-MD5sum: 12669b94e0b10d25cc7e76d22b360dbb
-Description: Bilgisayarınız için ikinci ekran olarak tabletinizi veya telefonunuzu kullanın!
-Name: Duet Pro
-Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.duetpro
-
-Package: com.turkishcydia.ikon
-Version: 1.0
-Section: Utilities
-Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.turkishcydia.ikon_1.0_iphoneos-arm.deb
-Size: 15938
-MD5sum: c21c12fe662f78714be9f24b9865a842
-Description: Turkish Cydia ikon yükleyici (İndirmeniz Önerilir!)
-Name: JailbreakTR Repo Icons
-Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ikon
-
-Package: com.turkishcydia.quickpowermode
+Package: com.jailbreaktr.quickpowermode
 Version: 1.0.1
-Section: Utilities
+Section: Tweaks
 Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.turkishcydia.quickpowermode_1.0.1_iphoneos-arm.deb
-Size: 22150
-MD5sum: 09e9fc212e970f0ad444b56fb8f04720
-Description: Batarya Simgesine Dokunarak Aktif Edebilirsiniz.
+Filename: ./debs/com.jailbreaktr.quickpowermode_1.0.1_iphoneos-arm.deb
+Size: 22194
+MD5sum: a07e48252086eb08742f523eb70d4ba4
+Description: Düşük Güç Modunu Açmak İçin Batarya Simgesine Tıkla. Aynı Zamanda iPad'lerde Düşük Güç Modunu Aktifleştirir.
 Name: QuickPowerMode (Hızlı Güç Modu)
 Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.quickpowermode
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.quickpowermode
+
+Package: com.jailbreaktr.newterm2
+Version: 2.5
+Section: Terminal Support
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreaktr.newterm2_2.5_iphoneos-arm.deb
+Size: 2997400
+MD5sum: 4914a1b41d0008c161381d7ac2e45789
+Description: iOS Cihazlar için Terminal
+Name: New Term2
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.newterm2
