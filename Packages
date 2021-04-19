@@ -30,7 +30,7 @@ Package: com.jailbreaktr.newterm2
 Version: 2.5
 Section: Terminal Support
 Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>11.0), com.jailbreaktr.common, com.jailbreaktr.localutf8
+Depends: firmware (>11.0), ws.hbang.common, com.linusyang.localeutf8
 Architecture: iphoneos-arm
 Filename: ./debs/com.jailbreaktr.newterm2_2.5_iphoneos-arm.deb
 Size: 2997400
@@ -39,20 +39,6 @@ Description: iOS Cihazlar için Terminal
 Name: NewTerm 2
 Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.newterm2
-
-Package: com.jailbreaktr.common
-Version: 1.16
-Section: Tweaks
-Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>11.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.jailbreaktr.common_1.16_iphoneos-arm.deb
-Size: 1078314 
-MD5sum: 5c9eb5cc6b5b58c5a9c02a6d4aa5a6b8
-Description: Tweak Kütüphane Genişletmesi
-Name: Cephei Tweak Support
-Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.common
 
 Package: com.jailbreaktr.ios6
 Version: 1.0
@@ -67,17 +53,3 @@ Description: iOS 6 Teması
 Name: iOS 6 Teması
 Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.ios6
-
-Package: com.jailbreaktr.localutf8
-Version: 1.0-1
-Section: System
-Maintainer: Kristal <turkishcydia@gmail.com>
-Depends: firmware (>11.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.jailbreaktr.localutf8_1.0-1_iphoneos-arm.deb
-Size: 17368
-MD5sum: 6a5cbd332ef250e600a483a191c11dbe
-Description: 
-Name: LocalUTF-8
-Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.localutf8
