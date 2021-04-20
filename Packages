@@ -1,6 +1,6 @@
 Package: com.jailbreaktr.felicitylite
 Version: 5.3
-Section: Themes
+Section: TC - Temalar
 Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
@@ -15,7 +15,7 @@ Icon: https://turkishcydia.tk/CydiaIcon.png
 
 Package: com.jailbreaktr.quickpowermode
 Version: 1.0.1
-Section: Tweaks
+Section: TC - İnce Ayarlar
 Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
@@ -43,7 +43,7 @@ Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.new
 
 Package: com.jailbreaktr.ios6
 Version: 1.0
-Section: Themes
+Section: TC - Temalar
 Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (<14.2)
 Architecture: iphoneos-arm
@@ -54,4 +54,18 @@ Description: iOS 6 Teması
 Name: iOS 6 Teması
 Author: Kristal <turkishcydia@gmail.com>
 Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.ios6
+
+Package: com.turkishcydia.ikon
+Version: 1.0
+Section: System
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (<14.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreaktr.ios6_1.0_iphoneos-arm.deb
+Size: 2627882
+MD5sum: 8e2a876a00f1b4df76610cbd1dbcce0d
+Description: 
+Name: TurkishCydia Repo Icons
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.ikon
 
