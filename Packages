@@ -1,0 +1,71 @@
+Package: com.jailbreaktr.felicitylite
+Version: 5.3
+Section: TC - Temalar
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreaktr.felicitylite_5.3_iphoneos-arm.deb
+Size: 11917086
+MD5sum: 24805afcd12a6f1a6465e470a2cd6f0d
+Description: SnowBoard Teması.
+Name: Felicity Lite
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.felicitylite
+Icon: https://turkishcydia.tk/CydiaIcon.png
+
+Package: com.jailbreaktr.quickpowermode
+Version: 1.0.1
+Section: TC - İnce Ayarlar
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreaktr.quickpowermode_1.0.1_iphoneos-arm.deb
+Size: 22194
+MD5sum: a07e48252086eb08742f523eb70d4ba4
+Description: Düşük Güç Modunu Açmak İçin Batarya Simgesine Tıkla. Aynı Zamanda iPad'lerde Düşük Güç Modunu Aktifleştirir.
+Name: QuickPowerMode
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.quickpowermode
+
+Package: com.jailbreaktr.newterm2
+Version: 2.5
+Section: Terminal Support
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (>11.0), ws.hbang.common, com.linusyang.localeutf8
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreaktr.newterm2_2.5_iphoneos-arm.deb
+Size: 2997400
+MD5sum: 4914a1b41d0008c161381d7ac2e45789
+Description: iOS Cihazlar için Terminal
+Name: NewTerm 2
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.newterm2
+
+Package: com.jailbreaktr.ios6
+Version: 1.0
+Section: TC - Temalar
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (<14.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreaktr.ios6_1.0_iphoneos-arm.deb
+Size: 32273470
+MD5sum: 18c746a4c878437dc4247f6221342a0f
+Description: iOS 6 Teması
+Name: iOS 6 Teması
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.ios6
+
+Package: com.turkishcydia.ikon
+Version: 1.0
+Section: TC - Sistem
+Maintainer: Kristal <turkishcydia@gmail.com>
+Depends: firmware (<14.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.turkishcydia.ikon_1.0_iphoneos-arm.deb
+Size: 2627882
+MD5sum: 8e2a876a00f1b4df76610cbd1dbcce0d
+Description: 
+Name: TurkishCydia Repo Icons
+Author: Kristal <turkishcydia@gmail.com>
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ikon
+
