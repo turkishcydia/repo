@@ -57,15 +57,15 @@ Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.ios
 
 Package: com.turkishcydia.ikon
 Version: 1.0
-Section: System
+Section: TC - Sistem
 Maintainer: Kristal <turkishcydia@gmail.com>
 Depends: firmware (<14.2)
 Architecture: iphoneos-arm
-Filename: ./debs/com.jailbreaktr.ios6_1.0_iphoneos-arm.deb
+Filename: ./debs/com.turkishcydia.ikon_1.0_iphoneos-arm.deb
 Size: 2627882
 MD5sum: 8e2a876a00f1b4df76610cbd1dbcce0d
 Description: 
 Name: TurkishCydia Repo Icons
 Author: Kristal <turkishcydia@gmail.com>
-Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.jailbreaktr.ikon
+Depiction: https://turkishcydia.github.io/repo/depictions/?p=com.turkishcydia.ikon
 
